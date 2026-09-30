@@ -1,0 +1,5 @@
+[project]
+name = "genpark-agent-extended-thinking-verification-critic-skill"
+version = "1.0.0"
+description = "Multi-round extended thinking critic performing backtracking, hypothesis testing, and factual ground checks"
+requires-python = ">=3.9"
